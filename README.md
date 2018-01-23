@@ -1,5 +1,8 @@
-# Project: Movie Trailer Website - Troy Ballard (TB1729)
+# Project: Movie Trailer Website - Troy Ballard (TB1729) January 23rd, 2018
 
+## Description:
+
+The Movie Trailer Website project consists of server-side code to store a list of movies titles, along with its respective box art imagery and movie trailer website. The data is served as a web page allowing visitors to review the movies and watch the trailers.
 
 ### Instructions:
 * 1. Clone **TB1729_Movie_Trailer_Website** to your local machine.
